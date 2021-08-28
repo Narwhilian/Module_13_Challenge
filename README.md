@@ -1,4 +1,4 @@
-# Prophet_Forecasting
+# Venture Funding with Deep Learning
 
 This notebook uses Tensorflow to create a series of Neural Networks to predict the success rate of startups based on the data given by the Alphabet Soup business team.
 
